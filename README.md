@@ -1,13 +1,6 @@
 # [WooCommerce Nextjs React Theme](https://woo-next-imranhsayed.vercel.app/) :rocket:
-[![Project Status: Active.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-![Stars](https://img.shields.io/github/stars/imranhsayed/woo-next?label=%E2%AD%90%20Stars)
-![Forks](https://img.shields.io/github/forks/imranhsayed/woo-next?color=%23ff69b4)
-![Contributors](https://img.shields.io/github/contributors/imranhsayed/woo-next?color=blue)
-![Follow](https://img.shields.io/github/followers/imranhsayed?label=Please%20follow%20%20to%20support%20my%20work%20%F0%9F%99%8F&style=social)
 
 > * This is a React WooCommerce theme, built with Next JS, Webpack, Babel, Node, GraphQl
-
-📹 [Full Course Video Tutorial](https://codeytek.com/course/woocommerce-with-react-course/)
 
 ## Important Note ⭐:
 The code for the Video Tutorial is in the branch [youtube-course](https://github.com/imranhsayed/woo-next/tree/youtube-course)
@@ -93,18 +86,6 @@ These Child categories data will automatically be used to create hero carousel o
 
 * `dev` Runs server in development mode
 
-## Code Contributors ✰
-
-Thanks to all the people who contributed to the code of this project 🤝
-
-<div>
-    <img src="https://github.com/imranhsayed.png?size=30" alt="Imran Sayed">
-    <img src="https://github.com/w3bdesign.png?size=30" alt="Daniel F">
-    <img src="https://github.com/delunix.png?size=30" alt="Fandi Rahmawan">
-    <img src="https://github.com/yudyananda.png?size=30" alt="yudyananda">
-</div>
-
-
 ## Contributing :busts_in_silhouette:
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
@@ -112,10 +93,6 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 ## Versioning :bookmark_tabs:
 
 I use [Git](https://github.com/) for versioning.
-
-## Author :bust_in_silhouette:
-
-* **[Imran Sayed](https://twitter.com/imranhsayed)**
 
 ## License :page_with_curl:
 
