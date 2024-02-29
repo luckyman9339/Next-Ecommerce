@@ -2,11 +2,6 @@
 
 > * This is a React WooCommerce theme, built with Next JS, Webpack, Babel, Node, GraphQl
 
-## Important Note ⭐:
-The code for the Video Tutorial is in the branch [youtube-course](https://github.com/imranhsayed/woo-next/tree/youtube-course)
-However, since there is continuous contribution and updates to this project. The 'master'
-branch is upto date with those changes. You can also refer to the PR notes for changes.
-
 ## Demo Desktop :video_camera:
 
 ![](demos/home-demo.gif)
@@ -57,10 +52,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Download and activate the following plugins , in your WordPress plugin directory:
 
-* [wp-graphql](https://github.com/imranhsayed/woo-next/tree/master/wordpress/plugins) Exposes graphql for WordPress ( **Tested with v-1.3.8** of this plugin )
-* [wp-graphql-woocommerce](https://github.com/imranhsayed/woo-next/tree/master/wordpress/plugins) Adds Woocommerce functionality to a WPGraphQL schema ( **Tested with v-0.8.1** of this plugin )
-* [headless-cms](https://github.com/imranhsayed/woo-next/tree/master/wordpress/plugins) Extends WPGraphQL Schema ( **Tested with v-1.8.0** of this plugin )
-
 * Make sure Woocommerce plugin is also installed in your WordPress site. You can also import default wooCommerce products that come with wooCommerce Plugin for development ( if you don't have any products in your WordPress install ) `WP Dashboard > Tools > Import > WooCommerce products(CSV)`: The WooCommerce default products csv file is available at `wp-content/plugins/woocommerce/sample-data/sample_products.csv`
 
 ## Hero Carousel.
@@ -71,24 +62,12 @@ These Child categories data will automatically be used to create hero carousel o
 
 ## Configuration(for GraphQL implementation) :wrench:
 
-* _Note_ Below is for GraphQL implementation , for REST API check [feature/rest-api](https://github.com/imranhsayed/woo-next/tree/feature/rest-api) branch
-
 1. (Required) Create a `.env` file taking reference from `.env-example` and update your WordPressSite URL.
 - `NEXT_PUBLIC_WORDPRESS_URL=https://example.com`
-
-## Branch details
-
-1. [feature/rest-api](https://github.com/imranhsayed/woo-next/tree/feature/rest-api) Contains REST API Implementation.
-
-2. The `master` branch has the GraphQL implementation.
 
 ## Common Commands :computer:
 
 * `dev` Runs server in development mode
-
-## Contributing :busts_in_silhouette:
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning :bookmark_tabs:
 
